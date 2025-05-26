@@ -80,7 +80,7 @@ export default function HomePage() {
             >
               {/* First name */}
               <span ref={nameFirstRef} className="block text-slate-300">
-                {createLetterSpans("I 'M Pavan", "name-animation-first")}
+                {createLetterSpans("Hey ,I 'm Pavan", "name-animation-first")}
               </span>
 
               {/* Last name */}
