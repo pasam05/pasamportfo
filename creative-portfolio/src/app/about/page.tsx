@@ -106,16 +106,16 @@ export default function AboutPage() {
 <div className="mb-12">
   <div className="border-l-2 border-slate-700 pl-6 py-4">
     <h3 className="text-2xl md:text-3xl font-bold text-slate-200">Intermediate (MPC)</h3>
-    <p className="text-lg text-slate-400 mb-2">2019 - 2021 / Sri Chaitanya Junior College</p>
-    <p className="text-lg text-slate-300">Percentage : 92%</p>
+    <p className="text-lg text-slate-400 mb-2">2019 - 2021 / Narayana Junior College</p>
+    <p className="text-lg text-slate-300">Percentage : 70%</p>
   </div>
 </div>
 
 <div className="mb-12">
   <div className="border-l-2 border-slate-700 pl-6 py-4">
     <h3 className="text-2xl md:text-3xl font-bold text-slate-200">Secondary School (10th)</h3>
-    <p className="text-lg text-slate-400 mb-2">2019 / Bhashyam High School</p>
-    <p className="text-lg text-slate-300">GPA : 9.7</p>
+    <p className="text-lg text-slate-400 mb-2">2019 / Amali Eng Med-High School</p>
+    <p className="text-lg text-slate-300">GPA : 8.2</p>
   </div>
 </div>
 
