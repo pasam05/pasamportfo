@@ -8,8 +8,8 @@ import NoiseBackground from "@/components/NoiseBackground";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  title: "Andy Bryant - Creative Developer",
-  description: "Portfolio website for Andy Bryant, a creative developer specializing in front-end development and interactive experiences.",
+  title: "Pasam Portfolio",
+  description: "Portfolio website, a creative developer specializing in front-end development and interactive experiences.",
 };
 
 export default function RootLayout({
