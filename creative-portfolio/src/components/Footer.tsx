@@ -12,7 +12,7 @@ const Footer = () => {
             >
             Pavan Sai
             </Link>
-            <p className="text-sm text-slate-300">© credits:Andy Bryant</p>
+            <p className="text-sm text-slate-300">© 2025 credits:Pasam Pavan Sai</p>
           </div>
           <nav className="navigation" aria-label="Footer Navigation">
             <ul className="flex items-center gap-1">
@@ -46,7 +46,7 @@ const Footer = () => {
             <a
               target="_blank"
               className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
-              aria-label="Andy Bryant on GitHub"
+              aria-label="Pavan on GitHub"
               rel="noreferrer"
               href="https://github.com/pasam05"
             >
@@ -57,7 +57,7 @@ const Footer = () => {
             <a
               target="_blank"
               className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
-              aria-label="Andy Bryant on Twitter"
+              aria-label="Pavan on Twitter"
               rel="noreferrer"
               href="https://leetcode.com/u/rWWlIYMnjh/"
             >
@@ -69,7 +69,7 @@ const Footer = () => {
             <a
               target="_blank"
               className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
-              aria-label="Andy Bryant on LinkedIn"
+              aria-label=" on LinkedIn"
               rel="noreferrer"
               href="https://www.linkedin.com/in/pasampavansai/"
             >
