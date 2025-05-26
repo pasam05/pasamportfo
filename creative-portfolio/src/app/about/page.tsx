@@ -79,7 +79,7 @@ export default function AboutPage() {
             
           </div>
           <div className="skill-item opacity-30 transition-opacity duration-500 flex items-center">
-            <span className="text-3xl md:text-5xl font-bold text-green-400">GSAP</span>
+            <span className="text-3xl md:text-5xl font-bold text-green-400">TypeScript</span>
             
           </div>
           <div className="skill-item opacity-30 transition-opacity duration-500 flex items-center">
