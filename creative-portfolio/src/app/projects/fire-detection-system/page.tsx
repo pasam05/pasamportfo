@@ -33,7 +33,7 @@ export default function ProjectDetail() {
         {/* Project Image */}
         <div className="w-full h-80 md:h-[500px] rounded-lg overflow-hidden mb-8">
           <img
-            src="https://res.cloudinary.com/dudiuujxv/image/upload/v1744572326/ChatGPT_Image_Apr_14_2025_12_54_56_AM_hjc1z7.png"
+            src="https://res.cloudinary.com/dcjddhs7s/image/upload/v1748272740/dreamstime_l_137230671-1280x640_xgx26t.jpg  "
             alt="img"
             className="w-full h-full object-cover"
           />
@@ -114,7 +114,7 @@ export default function ProjectDetail() {
         {/* Project Links */}
         <div className="flex flex-wrap gap-4">
           <a
-            href="https://github.com/ManjunadhaReddy04/fire"
+            href="https://github.com/pasam05/Lung-Cancer"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-md border-2 border-yellow-400 bg-transparent px-6 py-3 font-bold text-yellow-400 transition-colors hover:bg-yellow-400 hover:text-navy"
@@ -126,7 +126,7 @@ export default function ProjectDetail() {
           </a>
 
           <a
-            href="https://www.linkedin.com/posts/venna-manjunadha-reddy-06b1a1309_automation-puppeteer-whatsappdevelopment-activity-7314638644059758592--js5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6EDRMBZ33smdTvzvckencHoNk_Vj_SdqE"
+            href=""
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-md border-2 border-slate-100 bg-transparent px-6 py-3 font-bold text-slate-100 transition-colors hover:bg-slate-100 hover:text-navy"
