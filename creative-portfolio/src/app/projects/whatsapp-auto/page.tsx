@@ -207,7 +207,7 @@ export default function ProjectDetail() {
         {/* Project Links */}
         <div className="flex flex-wrap gap-4">
           <a
-            href="https://github.com/ManjunadhaReddy04/whatsapp-group-maker"
+            href="https://github.com/pasam05/WhatsAppGroupAutomator"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-md border-2 border-yellow-400 bg-transparent px-6 py-3 font-bold text-yellow-400 transition-colors hover:bg-yellow-400 hover:text-navy"
@@ -219,7 +219,7 @@ export default function ProjectDetail() {
           </a>
 
           <a
-            href="https://www.linkedin.com/posts/venna-manjunadha-reddy-06b1a1309_automation-puppeteer-whatsappdevelopment-activity-7314638644059758592--js5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6EDRMBZ33smdTvzvckencHoNk_Vj_SdqE"
+            href=""
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-md border-2 border-slate-100 bg-transparent px-6 py-3 font-bold text-slate-100 transition-colors hover:bg-slate-100 hover:text-navy"
