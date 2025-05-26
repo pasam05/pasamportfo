@@ -92,14 +92,33 @@ export default function AboutPage() {
         
 
         {/* Education section */}
-        <h2 className="text-4xl md:text-6xl font-bold text-slate-300 mb-8 mt-16">Education</h2>
-        <div className="mb-12">
-          <div className="border-l-2 border-slate-700 pl-6 py-4">
-            <h3 className="text-2xl md:text-3xl font-bold text-slate-200">B.Tech(CSE)</h3>
-            <p className="text-lg text-slate-400 mb-2">2025 / VelTech University</p>
-            <p className="text-lg text-slate-300">CGPA : 8.3 </p>
-          </div>
-        </div>
+        {/* Education section */}
+<h2 className="text-4xl md:text-6xl font-bold text-slate-300 mb-8 mt-16">Education</h2>
+
+<div className="mb-12">
+  <div className="border-l-2 border-slate-700 pl-6 py-4">
+    <h3 className="text-2xl md:text-3xl font-bold text-slate-200">B.Tech (CSE)</h3>
+    <p className="text-lg text-slate-400 mb-2">2021 - 2025 / VelTech University</p>
+    <p className="text-lg text-slate-300">CGPA : 8.3</p>
+  </div>
+</div>
+
+<div className="mb-12">
+  <div className="border-l-2 border-slate-700 pl-6 py-4">
+    <h3 className="text-2xl md:text-3xl font-bold text-slate-200">Intermediate (MPC)</h3>
+    <p className="text-lg text-slate-400 mb-2">2019 - 2021 / Sri Chaitanya Junior College</p>
+    <p className="text-lg text-slate-300">Percentage : 92%</p>
+  </div>
+</div>
+
+<div className="mb-12">
+  <div className="border-l-2 border-slate-700 pl-6 py-4">
+    <h3 className="text-2xl md:text-3xl font-bold text-slate-200">Secondary School (10th)</h3>
+    <p className="text-lg text-slate-400 mb-2">2019 / Bhashyam High School</p>
+    <p className="text-lg text-slate-300">GPA : 9.7</p>
+  </div>
+</div>
+
       </div>
     </section>
   );
